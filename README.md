@@ -153,7 +153,7 @@ class Main {
     static function main():Void {
         var connection = new Connect(
             "http://127.0.0.1:8765",
-            "K"
+            "TOKEN"
         );
 
         if (connection.pair()) {
