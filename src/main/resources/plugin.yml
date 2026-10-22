@@ -1,0 +1,5 @@
+name: MineshaftInternal
+version: 0.1.0
+main: dev.mineshaft.internal.MineshaftInternal
+api-version: '1.20'
+description: Local bridge between Minecraft Paper and Mineshaft SDKs
